@@ -3,7 +3,7 @@ This GitHub repository has the code for top 10 easy python project ideas for beg
 ## YouTube Video Link
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JsFgVJgev48/0.jpg)](https://www.youtube.com/watch?v=JsFgVJgev48)
 
-## About The Repo
+## About The Repo 2
 This repository contains 10 python scripts that contain the 10 projects that I discussed on my YouTube video as 
 **Top 10 Easy Python Project Ideas For Beginners**
 
